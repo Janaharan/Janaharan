@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEEmho716uOJQ/profile-displaybackgroundimage-shrink_350_1400/0/1707245716709?e=1729123200&v=beta&t=tluwfwBsks9jjlLiK_CeHtNg_ijeREpYlKetNjfZCRI)
+<p align="center">
+  <img src="assets/linkedin-banner.jpg" alt="MasterHead" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Janaharan</h1>
 <h3 align="center">Web Developer | Making the Impossible Possible</h3>
